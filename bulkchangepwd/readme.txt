@@ -1,1 +1,1 @@
-This works for changing bulk passwords on server
+This works for changing bulk passwords on a Window Server
